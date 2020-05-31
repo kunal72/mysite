@@ -1,0 +1,172 @@
+body{
+    text-align: center;
+    color: #40514E;
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+
+
+}
+.top-container{
+    margin: 0;
+    background-color: #d4f3ef;
+    position: relative;
+    padding-top: 100px;
+
+}
+.bottom-cloud{
+    position: absolute;
+    right: 900px;
+}
+.top-cloud{
+     position: absolute;
+     right: 425px;
+     top:44px;
+
+}
+h1{
+    margin: 50px auto 0PX auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    color:  #66BFBF;
+    
+
+}
+h2{
+    color:  #66BFBF;
+    font-family: 'Montserrat', sans-serif;  
+    font-size: 2.5rem;  
+}
+h3{
+    color:  #66BFBF;
+}
+.skill-img{
+    border-radius: 124px;
+    height: 230px;
+    width: 230px;
+    position: absolute;
+    left: 126px;
+    top:1221px;
+
+}
+.pr{
+    color:  #66BFBF;
+}
+.profile-img{
+    padding-top: 23px;
+    width: 230px;
+}
+.design{
+    position: absolute;
+    
+    right: 333px;
+    top: 1297px;
+}
+.design-top{
+    position: absolute;
+    right: 656px;
+    top: 1243px;
+}
+.chillie-img{
+    width: 230px;
+    position: absolute;
+    right: 251px;
+    top: 1506px;
+}
+.wings{
+    position: absolute;
+    top:1541px;
+    left:380px
+}
+.wingsd{
+    position: absolute;
+    top:1591px;
+    left:64px;
+    
+}
+.ps{
+    position: absolute;
+    top: 1218px;
+    right: 94px;
+    width: 200px;
+}
+.contact-me{
+    position: absolute;
+    top:1769px;
+    right: 331px;
+    color: #66BFBF;
+}
+.bottom-container{
+    position: absolute;
+    top:2053px;
+    right: -9px;
+    height: 90px;
+    width: 100%;
+    background-color: #66BFBF;
+    padding-top: 23px;
+    /* text-decoration: none; */
+}
+.footer-link{
+    text-decoration: none;
+    padding-left: 14px;
+    color: #11999E;
+    
+}
+.pl{
+    color: white;
+}
+.footer-link:hover{
+    text-decoration: underline;
+    font-size: 12px;
+    color: white;
+}
+.btn{
+    position: absolute;
+    padding-top: 23px;
+    text-decoration: none;
+    color: #11999E;
+    bottom: -44px;
+    right: 361px;
+    
+
+}
+.btn:hover{
+    text-decoration: underline;
+    font-size: 23px;
+}
+.skill{
+    position: absolute;
+    top: 1000px;
+}
+hr{
+    color: gray;
+    border-style: none;
+    border-top: dotted;
+    height: 4px;
+    width: 5%;
+    border-width: 6px;
+}
+/* all contacts style */
+.ph{
+    position: absolute;
+    left: 109px;
+    top: 266px;
+}
+.em{
+    position: absolute;
+    left: 109px;
+    top: 303px;
+}
+.ad{
+    position: absolute;
+    left: 110px;
+    top: 347px;
+}
+.fr{
+    position: absolute;
+    left: 488px;
+    top: 472px;
+    border: 2px solid ;
+    background-color: #d4f3ef;
+    color:#11999E ;
+}   
+
